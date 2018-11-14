@@ -12,4 +12,7 @@ Tasks for final report (early December):
 (4) Compute AUC of ROC curves, try out PPV/other accuracy metrics
 
 Note: Keras ImageDataGenerator code based on code from "Deep Learning with Python" by Francois Chollet, Section 5.3.1
-Note: CNN A based on https://blog.keras.io/building-powerful-image-classification-models-using-very-little-data.html
+
+Note: Simple CNN A based on https://blog.keras.io/building-powerful-image-classification-models-using-very-little-data.html
+
+Note: Visualization technique (GRAD-CAM) code based on: https://github.com/raghakot/keras-vis
