@@ -8,3 +8,5 @@ Tasks for final report (early December):
 (2) Test CNN B on Early Glaucoma Dataset; possibly obtain fine-grained labels to re-train both models
 
 (3) Try simpler models to achieve higher accuracy; try more datasets; try multi-modal images
+
+(4) Compute AUC of ROC curves, try out PPV/other accuracy metrics
