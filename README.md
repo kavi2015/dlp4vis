@@ -1,6 +1,15 @@
 # dlp4vis
 Deep Learning Project for Vision Science
 
+Files of Relevance for Project Milestone:
+
+(1) newDataSet3BlockCNN.ipynb (CNN A)
+
+(2) newDatasetKerasVGG_googleDrive.ipynb (CNN B)
+
+(2) VisualizationOfBasic3LayersCNN.ipynb (Attention-based Visualization)
+
+
 Tasks for final report (early December):
 
 (1) Optimize attention based classification using UNET or Class Activation Maps or Grad CAMs (or Keras), and create activation maps for CNN B (pre-trained VGG + Random Forest Classifier)
