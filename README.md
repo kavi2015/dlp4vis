@@ -1,14 +1,29 @@
 # dlp4vis
 Deep Learning Project for Vision Science
 
-Tasks for our milestone (finish by 11/11 so can write report by 11/13):
+Files of Relevance for Project Milestone:
 
-(1) basic 3-block CNN (+ residual connections) - Kavi
+(1) newDataSet3BlockCNN.ipynb (CNN A)
 
-(2) Keras VGG + Random Forest (need to work on random forest) - Daniel
+(2) newDatasetKerasVGG_googleDrive.ipynb (CNN B)
 
-(3) Attention based classification using UNET or Class Activation Maps or Grad CAMs (papers attached) - Chelsea, Kavi, Daniel
+(2) VisualizationOfBasic3LayersCNN.ipynb (Attention-based Visualization)
 
-(4) Multimodal input images (RNFL probability maps + RGCP probability maps) - Kavi (and Chelsea and Daniel)
 
-(5) Pytorch AlexNet + Random Forest if time and if #2 does not help increase accuracy - Kavi, Chelsea, Daniel
+Tasks for final report (early December):
+
+(1) Optimize attention based classification using UNET or Class Activation Maps or Grad CAMs (or Keras), and create activation maps for CNN B (pre-trained VGG + Random Forest Classifier); try out t-SNE especically for visualizing high-dimensional data
+
+(2) Test CNN B on Early Glaucoma Dataset using 10-fold cross validation
+
+(3) Try out pre-trained ResNet-18 with last few layers trained on RNFL image data
+
+(4) Compute AUC of ROC curves, try out PPV/other accuracy metrics
+
+(5) If time: try simpler models to achieve higher accuracy; try more datasets; try multi-modal image input
+
+Note: Keras ImageDataGenerator code based on code from "Deep Learning with Python" by Francois Chollet, Chapters 5 and 7
+
+Note: Simple CNN A based on https://blog.keras.io/building-powerful-image-classification-models-using-very-little-data.html
+
+Note: Visualization technique (GRAD-CAM) code based on: https://github.com/raghakot/keras-vis
