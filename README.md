@@ -7,7 +7,7 @@ Files of Relevance for Project Milestone:
 
 (2) newDatasetKerasVGG_googleDrive.ipynb (CNN B)
 
-(2) VisualizationOfBasic3LayersCNN.ipynb (Attention-based Visualization)
+(3) VisualizationOfBasic3LayersCNN.ipynb (Attention-based Visualization)
 
 
 Tasks for final report (early December):
