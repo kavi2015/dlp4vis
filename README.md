@@ -16,15 +16,15 @@ Tasks for final report (early December):
 
 (2) Visualization using Class Activation Maps or Grad CAMs (or Keras): create activation maps for CNN B (pre-trained VGG + Random Forest Classifier); try out t-SNE especically for visualizing high-dimensional data (Kavi)
 
-(2) Test CNN B on Early Glaucoma Dataset using 10-fold cross validation (Daniel, Kavi)
+(3) Test CNN B on Early Glaucoma Dataset using 10-fold cross validation (Daniel, Kavi)
 
-(3) Try out pre-trained ResNet-18 with last few layers trained on RNFL image data (Chelsea)
+(4) Try out pre-trained ResNet-18 with last few layers trained on RNFL image data (Chelsea)
 
-(4) Compute AUC of ROC curves, try out PPV/other accuracy metrics (Chelsea, Kavi, Daniel)
+(5) Compute AUC of ROC curves, try out PPV/other accuracy metrics (Chelsea, Kavi, Daniel)
 
-(5) All of above for Kaggle OCT Dataset: https://www.kaggle.com/paultimothymooney/kermany2018#OCT2017.zip (all)
+(6) All of above for Kaggle OCT Dataset: https://www.kaggle.com/paultimothymooney/kermany2018#OCT2017.zip (all)
 
-(6) If time: try simpler models to achieve higher accuracy; try more datasets; try multi-modal image input
+(7) If time: try more datasets; try multi-modal image input
 
 Note: Keras ImageDataGenerator code based on code from "Deep Learning with Python" by Francois Chollet, Chapters 5 and 7
 
