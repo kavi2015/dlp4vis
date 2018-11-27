@@ -12,7 +12,9 @@ Files of Relevance for Project Milestone:
 
 Tasks for final report (early December):
 
-(1) Optimize attention based classification using UNET (Daniel) or Class Activation Maps or Grad CAMs (or Keras), and create activation maps for CNN B (pre-trained VGG + Random Forest Classifier) - Kavi; try out t-SNE especically for visualizing high-dimensional data (Kavi)
+(1) Optimize attention based classification using UNET (Daniel)
+
+(2) Visualization using Class Activation Maps or Grad CAMs (or Keras): create activation maps for CNN B (pre-trained VGG + Random Forest Classifier); try out t-SNE especically for visualizing high-dimensional data (Kavi)
 
 (2) Test CNN B on Early Glaucoma Dataset using 10-fold cross validation (Daniel, Kavi)
 
