@@ -12,15 +12,15 @@ Files of Relevance for Project Milestone:
 
 Tasks for final report (early December):
 
-(1) Optimize attention based classification using UNET or Class Activation Maps or Grad CAMs (or Keras), and create activation maps for CNN B (pre-trained VGG + Random Forest Classifier); try out t-SNE especically for visualizing high-dimensional data
+(1) Optimize attention based classification using UNET (Daniel) or Class Activation Maps or Grad CAMs (or Keras), and create activation maps for CNN B (pre-trained VGG + Random Forest Classifier) - Kavi; try out t-SNE especically for visualizing high-dimensional data (Kavi)
 
-(2) Test CNN B on Early Glaucoma Dataset using 10-fold cross validation
+(2) Test CNN B on Early Glaucoma Dataset using 10-fold cross validation (Daniel, Kavi)
 
-(3) Try out pre-trained ResNet-18 with last few layers trained on RNFL image data
+(3) Try out pre-trained ResNet-18 with last few layers trained on RNFL image data (Chelsea)
 
-(4) Compute AUC of ROC curves, try out PPV/other accuracy metrics
+(4) Compute AUC of ROC curves, try out PPV/other accuracy metrics (Chelsea, Kavi, Daniel)
 
-(5) All of above for Kaggle OCT Dataset: https://www.kaggle.com/paultimothymooney/kermany2018#OCT2017.zip
+(5) All of above for Kaggle OCT Dataset: https://www.kaggle.com/paultimothymooney/kermany2018#OCT2017.zip (all)
 
 (6) If time: try simpler models to achieve higher accuracy; try more datasets; try multi-modal image input
 
