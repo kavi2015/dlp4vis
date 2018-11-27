@@ -20,7 +20,9 @@ Tasks for final report (early December):
 
 (4) Compute AUC of ROC curves, try out PPV/other accuracy metrics
 
-(5) If time: try simpler models to achieve higher accuracy; try more datasets; try multi-modal image input
+(5) All of above for Kaggle OCT Dataset: https://www.kaggle.com/paultimothymooney/kermany2018#OCT2017.zip
+
+(6) If time: try simpler models to achieve higher accuracy; try more datasets; try multi-modal image input
 
 Note: Keras ImageDataGenerator code based on code from "Deep Learning with Python" by Francois Chollet, Chapters 5 and 7
 
