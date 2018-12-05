@@ -1,6 +1,6 @@
 # dlp4vis
 
-Deep Learning Project for Vision Science
+Deep Learning Project for Vision Science - Toward Enabling Interpretable Automated Eye Disease Detection from OCT Data
 
 Files of Relevance for Project Milestone:
 
@@ -25,6 +25,8 @@ Note: All code files can be run by downloading .ipynb of interest and opening in
 
 (5) Example Data from Kaggle OCT Dataset: https://www.kaggle.com/paultimothymooney/kermany2018#OCT2017.zip
 
+(6) Code for extracting features for tSNE visualization: KaviMod4_tSNE_VGG16pretrain.ipynb
+
 
 Future Directions: Multi-modal image input, UNET for enhancing accuracy, alternate accuracy metrics
 
@@ -36,4 +38,4 @@ Note: Non-pretrained CNNs based on https://blog.keras.io/building-powerful-image
 Note: Visualization technique (GRAD-CAM) code based on: https://github.com/raghakot/keras-vis
 
 
-Acknowledgements: We would like to thank all members of the Hood Visual Science Lab at Columbia University as well as all members of the Laboratory for Intelligent Imaging and Neural Computing at Columbia University. In particular, thanks go to Xinhui Li for help on the tSNE visualization technique, Dr. Emmanouil (Manos) Tsamis and Rashmi Rajshekhar for useful discussions througout and for enabling acquisition of image data. We are also grateful to Isht Dwivedi, Prof. Iddo Drori, Prof. Paul Sajda, and Prof. Donald C. Hood for their guidance and useful discussions throughout the development and implementation of this project.
+Acknowledgements: We would like to thank all members of the Hood Visual Science Lab at Columbia University as well as all members of the Laboratory for Intelligent Imaging and Neural Computing at Columbia University. In particular, thanks go to Xinhui Li for help on the tSNE visualization technique, Dr. Emmanouil (Manos) Tsamis and Rashmi Rajshekhar for useful discussions throughout and for enabling acquisition of image data. We are also grateful to Isht Dwivedi, Prof. Iddo Drori, Prof. Paul Sajda, and Prof. Donald C. Hood for their guidance and useful discussions throughout the development and implementation of this project.
